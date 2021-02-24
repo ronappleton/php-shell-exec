@@ -1,0 +1,17 @@
+{
+    "name": "ronappleton/php-shell-exec",
+    "description": "Php wrapper for shell exec commands",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ron Appleton",
+            "email": "ron@appleton.digital"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RonAppleton\\PhpShellExec\\": "src/"
+        }
+    }
+}
